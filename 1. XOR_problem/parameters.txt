@@ -1,0 +1,7 @@
+numHiddenLayerOneNeurons 2
+numHiddenLayerTwoNeurons 0
+numInputNeurons 2
+numOutputNeurons 1
+learningRate 0.4
+momentum 0.4
+maxIterations 2000
